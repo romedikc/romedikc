@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a FAST API project](https://github.com/luianqi/employee-knowledge-control) 
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 1+ year **of experience in Backend Technologies**
 
