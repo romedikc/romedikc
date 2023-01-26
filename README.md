@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luianqi&label=Profile%20views&color=0e75b6&style=flat" alt="luianqi" /> </p>
 
-- 🔭 I’m currently working on [a FAST API project](https://github.com/luianqi/employee-knowledge-control) 
-
-- 🌱 I’m currently learning **Go!**
-
-- 👨‍💻 1+ year **of experience in Backend Technologies**
+- 👨‍💻 1,5+ year **of experience in Backend Technologies**
 
 
 ![ana-d-small](https://user-images.githubusercontent.com/73655002/197509971-de072ed3-0bb9-47d1-987b-470db403d29c.gif)
