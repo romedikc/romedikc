@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Aiana</h1>
 <h3 align="center">A passionate backend developer from Bishkek, Kyrgyzstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luianqi&label=Profile%20views&color=0e75b6&style=flat" alt="luianqi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romedikc&label=Profile%20views&color=0e75b6&style=flat" alt="romedikc" /> </p>
 
 - 👨‍💻 1,5+ year **of experience in Backend Technologies**
 
